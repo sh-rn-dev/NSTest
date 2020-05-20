@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1464d751-7763-4e46-a76e-5955fef645d4" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../ios/FranklinGothicCond.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../App/Containers/LaunchScreen.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../App/Containers/RootContainer.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../App/Containers/RootContainer.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../App/Containers/Styles/RootContainerStyles.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../App/Containers/Styles/RootContainerStyles.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../App/Navigation/AppNavigation.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../App/Navigation/AppNavigation.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../App/Navigation/ReduxNavigation.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../App/Navigation/ReduxNavigation.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../App/Themes/Colors.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../App/Themes/Colors.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ignite/ignite.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../ignite/ignite.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ios/NSTest.xcodeproj/project.pbxproj" beforeDir="false" afterPath="$PROJECT_DIR$/../../ios/NSTest.xcodeproj/project.pbxproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ios/NSTest/Info.plist" beforeDir="false" afterPath="$PROJECT_DIR$/../../ios/NSTest/Info.plist" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ios/Podfile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../ios/Podfile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../package.json" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view />
+      </state>
+    </system>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1600" />
+    <option name="height" value="678" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane" />
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="android.sdk.path" value="$USER_HOME$/Library/Android/sdk" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1464d751-7763-4e46-a76e-5955fef645d4" name="Default Changelist" comment="" />
+      <created>1589999810869</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589999810869</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1600" height="678" extended-state="0" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" visible="true" weight="0.32991013" />
+      <window_info id="Structure" side_tool="true" />
+      <window_info id="Build Variants" side_tool="true" />
+      <window_info id="Image Layers" />
+      <window_info id="Designer" />
+      <window_info id="Resources Explorer" />
+      <window_info id="Capture Tool" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info id="Captures" order="0" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="TODO" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Gradle" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Palette&#9;" />
+    </layout>
+  </component>
+</project>
